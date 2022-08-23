@@ -374,10 +374,6 @@ img {
     margin-bottom: 20px;
 }
 
-.about__content-list-wrapper {
-    text-align: center;
-}
-
 .about__content-list {
     display: inline-block;
     text-align: left;
